@@ -37,7 +37,7 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-1" value="&lt;b&gt;ГОТОВ ЗА 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="30" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-2" value="&lt;div&gt;Случайный мод&lt;/div&gt;&lt;div&gt;сработал&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-2" value="&lt;div&gt;Случайный мод&lt;/div&gt;&lt;div&gt;НЕ сработал&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-5" value="14.3%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
