@@ -112,6 +112,12 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-29" value="&lt;div&gt;2-й известный не сработал&lt;/div&gt;&lt;div&gt;&quot;Аул&quot; точно в слот №2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-30" value="&lt;div&gt;1-й известный в слот №1&lt;/div&gt;&lt;div&gt;2-й известный в слот №3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-31" value="&lt;div&gt;1-й известный в слот №3&lt;/div&gt;&lt;div&gt;2-й известный в слот №1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
