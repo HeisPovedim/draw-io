@@ -67,6 +67,9 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-11" value="14.29%" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="840" y="220" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-14" value="&lt;div&gt;1-й известный сработал в&amp;nbsp;&lt;/div&gt;&lt;div&gt;слоте №3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
