@@ -139,22 +139,22 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-33" value="16.67%" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="960" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-39" value="&lt;b&gt;ГОТОВ ЗА 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-39" value="&lt;b&gt;ЗА 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-40" value="&lt;b&gt;ГОТОВ ЗА 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-40" value="&lt;b&gt;ЗА 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-41" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-41" value="&lt;b&gt;ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-42" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-42" value="&lt;b&gt;ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-44" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-44" value="&lt;b&gt;ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="510" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-45" value="&lt;b&gt;ГОТОВ ЗА 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-45" value="&lt;b&gt;ЗА 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="590" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
