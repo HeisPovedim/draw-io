@@ -148,6 +148,12 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-41" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="210" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-42" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-44" value="&lt;b&gt;ГОТОВ ЗА 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
