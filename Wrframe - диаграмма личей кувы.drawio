@@ -7,6 +7,9 @@
         <mxCell id="97fda4tvgliUyuYsYdo3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="97fda4tvgliUyuYsYdo3-1" target="97fda4tvgliUyuYsYdo3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="97fda4tvgliUyuYsYdo3-1" target="uQOkkvbZhb9CwiOwtQ7e-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97fda4tvgliUyuYsYdo3-1" value="&lt;div&gt;Начать с &quot;Аул&quot;&lt;/div&gt;&lt;div&gt;в слоте №1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
@@ -71,10 +74,13 @@
           <mxGeometry x="720" y="320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-16" value="&lt;div&gt;2-й известный сработал&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-17" value="&lt;div&gt;2-й известный в слот №2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="160" height="40" as="geometry" />
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uQOkkvbZhb9CwiOwtQ7e-17" target="uQOkkvbZhb9CwiOwtQ7e-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-17" value="&lt;div&gt;2-й известный в слот №2&lt;/div&gt;&lt;div&gt;&lt;div&gt;1-й известный в слот №3&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
