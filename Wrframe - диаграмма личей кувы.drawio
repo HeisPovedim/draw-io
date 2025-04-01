@@ -85,6 +85,9 @@
         <mxCell id="uQOkkvbZhb9CwiOwtQ7e-17" value="&lt;div&gt;2-й известный в слот №2&lt;/div&gt;&lt;div&gt;&lt;div&gt;1-й известный в слот №3&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uQOkkvbZhb9CwiOwtQ7e-21" value="&lt;div&gt;Поменять местами 1-й&lt;/div&gt;&lt;div&gt;известный в слот №1 и&lt;/div&gt;&lt;div&gt;&quot;Аул&quot; в слот №3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
